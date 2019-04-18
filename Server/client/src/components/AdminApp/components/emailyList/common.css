@@ -1,0 +1,9 @@
+.emaily-page .navbar-container {
+  padding: 5% 0; }
+
+.emaily-page .emaily-container .error-msg {
+  color: red; }
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .emaily-page .emaily-container .error-msg {
+    color: red; } }
